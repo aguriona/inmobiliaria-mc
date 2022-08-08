@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Casa en Asturias",
+    "description":"Hermosa casa amoblada de 3 hab.",
+    "stack": ["seguro","precio"],
+    "img": "casa1",
+    "website": "www.google.com"
+  },
+  {
+    "title": "Casa en Finesterre",
+    "description": "Espectacular casa de 2 hab.",
+    "stack": ["amplia", "precio"],
+    "img": "casa2",
+    "website": "www.google.com"
+  },
+  {
+    "title": "Casa en playa",
+    "description": "Espectacular casa de 5 hab.",
+    "stack": ["amplia", "seguro"],
+    "img": "casa3",
+    "website": "www.google.com"
+  }
+]
